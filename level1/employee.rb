@@ -22,4 +22,3 @@ class Employee
     name.split[1]
   end
 end
-
